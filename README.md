@@ -1,6 +1,6 @@
 # Engineering Drawing Change Detection
 
-An AI-assisted drawing checker prototype for detecting changes between old and new engineering drawings using image alignment, ROI-based comparison, OCR extraction, and engineering token analysis.
+AI-assisted engineering drawing change detection using alignment, ROI comparison, OCR extraction, and token analysis.
 
 ## Overview
 
